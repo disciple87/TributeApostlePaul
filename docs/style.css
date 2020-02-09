@@ -2,6 +2,17 @@ body {
     text-align: center;
 }
 
+h1{ 
+    background-color: black;
+    margin: 0 0 0 0;
+    color: rgb(255, 255, 255);
+    padding: 5px 0 0 0;
+}
+
+h2 {
+    margin: 0 0 0 0;
+}
+
 img {
     max-width: 100%;
     display: block;
@@ -9,21 +20,34 @@ img {
     margin: 0 auto;
 }
 #img-div {
-    padding: 0 0 15px 0;
+    padding: 0 0 0 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0 0 0 0;
+    font-weight: bolder;
+    background-color: rgba(255, 255, 255, 0.842);
+    color: rgb(230, 230, 230);
 }
 
 #img-caption {
-    padding: 10px 0 0 0;
+    padding: 10px 0 10px 0;
     display: block;
+    background-color: black;
+    margin: 0 0 0 0;
 }
 
 ul {
-    max-width: 50em;
+    max-width: 45em;
     margin: 0 auto 50px auto;
     text-align: left;
     line-height: 1.8; 
-    text-justify: auto;  
+    text-justify: auto; 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
 }
 li {
     margin:20px 0 0 0;
+}
+
+#tribute-info {
+    background-color: rgb(235, 235, 235);
+    margin: 0 0 0 0;
 }
