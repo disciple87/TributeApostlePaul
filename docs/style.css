@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    width: auto;
+    margin: 0 auto;
+}
+#img-div {
+    padding: 0 0 15px 0;
+}
+
+#img-caption {
+    padding: 10px 0 0 0;
+    display: block;
+}
+
+ul {
+    max-width: 50em;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.8; 
+    text-justify: auto;  
+}
+li {
+    margin:20px 0 0 0;
+}
